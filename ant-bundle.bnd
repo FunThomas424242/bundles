@@ -1,0 +1,3 @@
+-classpath: libs/ant-1.8.4.jar, libs/apache-ant-1.8.4-src.zip
+Export-Package: org.apache.tools.ant.*
+Bundle-Version: 1.8.4
